@@ -1,0 +1,7 @@
+{
+  "name": "legup",
+  "short_name": "legup",
+  "description": "Landingear.com",
+  "start_url": "/",
+  "display": "standalone"
+}
